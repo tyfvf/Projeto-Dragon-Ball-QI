@@ -1,0 +1,21 @@
+ul{
+    background-color: black;
+    list-style: none;
+    padding: 40px;
+}
+
+li{
+    padding-left: 20px;
+    display: inline;
+}
+
+a:link, a:visited{
+    color:white;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration-line: underline;
+}

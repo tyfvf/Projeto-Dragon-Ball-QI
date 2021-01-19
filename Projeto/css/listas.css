@@ -1,0 +1,9 @@
+ol{
+    list-style-type: katakana;
+    list-style-position: inside;
+}
+
+ul{
+    list-style-image: url(../imagens/EsferaDoDragao.png);
+    list-style-position: inside;    
+}
